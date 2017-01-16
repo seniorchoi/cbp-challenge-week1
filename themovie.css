@@ -1,0 +1,30 @@
+img {
+    width: 300px;
+    
+}
+
+h2 {
+    background-color: cornflowerblue;
+    color: white;
+    padding-left: 50px;
+}
+
+p {
+    margin: 40px;
+    border: black solid;
+
+    padding: 10px;
+}
+
+ul {
+    border: black solid;
+    margin: 40px;
+}
+.maxh{
+    max-height: 150px;
+}
+body {
+    max-width: 1000px;
+
+    font-family: Arial, Helvetica, sans-serif;
+}
